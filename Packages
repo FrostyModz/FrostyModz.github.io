@@ -1,0 +1,16 @@
+Package: com.frosty.simplewelcome
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: CMT Frosty
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.frosty.simplewelcome_0.0.1-16+debug_iphoneos-arm.deb
+Size: 3878
+MD5sum: 63d07ee41d5750a43c84968ec50e0ccc
+SHA1: cc6cc20525fe09f6ad60ce2149526ac9d18e404e
+SHA256: c3089e3fc71b8b375efe34be0d49624d1520f456b6cb7d010fdd21ae5e62e623
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CMT Frosty
+Name: SimpleWelcome
+

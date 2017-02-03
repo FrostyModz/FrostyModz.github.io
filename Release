@@ -1,0 +1,8 @@
+Origin: CMT Frostys Public Repo
+Label: CMT Frostys Repo
+Suite: stable
+Version 1.0.0
+Codename: ios
+Architectures: iphoneio-arm
+Components: main
+Description: CMT Frostys Repo
